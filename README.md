@@ -1,5 +1,3 @@
-# _2023_dioxane-tranchant
-
 Data from "Revisiting the reference compound for determination of the hydrodynamic radius of proteins by pulsed field gradient NMR spectroscopy", Tranchant et al., 2023
 
 List of content:
